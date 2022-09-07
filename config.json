@@ -9,7 +9,7 @@
     "BotKey": "Gsyt6jRJ",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
-    "autobio": true,
+    "autobio": false,
     "anticall": true,
     "autorespond": true,
     "autoblok212": true,
