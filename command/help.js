@@ -508,12 +508,17 @@ ${mundur}
  • ${prefix}metalg${petik}
 
 Website Owner:
-https://s.id/WahyudiID
+
+s.id/WahyudiID
 `
 }
 
 exports.donate = (pushname, ownerNumber) => {
     return`Donasi supaya bot tetap up to date,
 Hubungi Contact  Owner:
-wa.me/${ownerNumber} (Owner)`
+wa.me/${ownerNumber} (Owner)
+
+Atau Kunjungi Website Owner
+s.id/WahyudiID
+`
 }
